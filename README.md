@@ -25,5 +25,21 @@ If you want a general idea, you would probably imagine my career choice being in
 Most likely in Web Development or continued Software Development since I'm a very big of *low-level computing*.
 
 ## What's going on in your life?
+Currently I'm at a point in my life where I have no idea where to actually go and I'm just going with the flow
+of life and hoping nothing bad happens. Dumb idea but it has been working up to this point so who knows.
 
-W.I.P
+I'm a student going into my Junior year of High School and I'm planned to graduate from High School in 2025 which is nice.
+
+## How do I contact you?
+
+You can contact me via [email](mailto:blastlessanthony@hotmail.com) or any social platform.
+`blastlessanthony@hotmail.com`
+
+Keep in mind that I won't be active on all of them but you'll commonly find me
+on Reddit, Instagram, and Github.
+
+Here is a list of internet platforms you can find me on:
+* [Twitter](https://twitter.com/BlastlessAnt) `BlastlessAnt`
+* [Reddit](https://www.reddit.com/user/BlastlessAnthony-Red) `BlastlessAnthony-Red`
+* [Instagram](https://www.instagram.com/blastlessanthony) `blastlessanthony`
+* Discord `blastlessanthony`
