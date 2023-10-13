@@ -42,4 +42,9 @@ Here is a list of internet platforms you can find me on:
 * [Twitter](https://twitter.com/BlastlessAnt) `BlastlessAnt`
 * [Reddit](https://www.reddit.com/user/BlastlessAnthony-Red) `BlastlessAnthony-Red`
 * [Instagram](https://www.instagram.com/blastlessanthony) `blastlessanthony`
-* Discord `blastlessanthony`
+* Discord `blastlessanthony`  
+  
+## Goodies and stuff!
+  
+**My examples:**  
+[Loading images with stb_image in SDL2](https://github.com/BlastlessAnthony/SDL2-stb_image-Example)
