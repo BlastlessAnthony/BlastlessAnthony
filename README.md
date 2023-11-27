@@ -49,5 +49,5 @@ Here is a list of internet platforms you can find me on:
 **My examples:**  
 [Loading images with stb_image in SDL2](https://github.com/BlastlessAnthony/SDL2-stb_image-Example)  
   
-**My templates:**
+**My templates:**  
 [OpenGL with SDL windowing example](https://github.com/BlastlessAnthony/OpenGL-SDL-Template)
